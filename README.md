@@ -12,7 +12,7 @@ Nesse curso você vai dominar todo o **git** e **github** _do zero ao profission
 * _Usando github de forma profissional._
 
 1. _Entendendo o que é **git**._
-    1. Oque é git?
+    1. O que é git?
     2. Instalando git na máquina.
 2. _Aprendendo sobre **repositórios**._ 
 3. _Trabalhando com **branches**._
@@ -25,3 +25,8 @@ Nesse curso você vai dominar todo o **git** e **github** _do zero ao profission
 [_Instagram_](https://instagram.com/sujeitoprogramador)
 
 [_Youtube_](https://youtube.com/c/sujeitoprogramador)
+
+>Este é um blockquote, usado para destacar alguma área.
+>
+>Segunda área destacada.
+
