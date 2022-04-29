@@ -9,7 +9,7 @@ Nesse curso você vai dominar todo o **git** e **github** _do zero ao profission
 - [ ] Login com facebook.
 - [ ] Página sobre a empresa.
 
-**## Módulos:**
+## Módulos:
 * _Entendendo o que é **git**._
 * _Aprendendo sobre **repositórios**._ 
 * _Trabalhando com **branches**._
@@ -25,7 +25,7 @@ Nesse curso você vai dominar todo o **git** e **github** _do zero ao profission
 5. _Usando github de forma profissional._
 
 
-**### Redes sociais:**
+### Redes sociais:
 
 [_Instagram_](https://instagram.com/sujeitoprogramador)
 
