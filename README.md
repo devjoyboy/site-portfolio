@@ -70,7 +70,7 @@ echo "Hello world";
 
 Propriedade | Descrição
 ----------- | --------
-name | Para informar o nome do usuário
+name | Para informar o **nome** do usuário
 size | Para definir o tamanho do campo
-background | Cor de fundo da area em HEX
+background | Cor de fundo da area em _HEX_
 onPress | Função chamada quando clicar no botão
