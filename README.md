@@ -1,6 +1,6 @@
 ![Logo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
-**# Bem vindo ao curso Git e Github.**
+# Bem vindo ao curso Git e Github.
 
 Nesse curso você vai dominar todo o **git** e **github** _do zero ao profissional._
 
@@ -12,6 +12,8 @@ Nesse curso você vai dominar todo o **git** e **github** _do zero ao profission
 * _Usando github de forma profissional._
 
 1. _Entendendo o que é **git**._
+    1. Oque é git?
+    2. Instalando git na máquina.
 2. _Aprendendo sobre **repositórios**._ 
 3. _Trabalhando com **branches**._
 4. _Git avançado._
